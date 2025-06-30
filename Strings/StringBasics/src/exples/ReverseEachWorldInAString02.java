@@ -12,7 +12,6 @@ public class ReverseEachWorldInAString02 {
 		String str = sc.nextLine();
 
 		String[] words = str.split("\\s");
-		
 		String revreseWords= "";
 		
 		for (String w : words) {
